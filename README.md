@@ -41,10 +41,10 @@ I focus on improving software quality, increasing test efficiency, and reducing 
 * Designed test plans and developed comprehensive test cases for modular features of a learning platform developed by an external vendor
 * Performed UI and functional manual testing to validate core features and ensure system quality
 * Executed test cases, identified defects, and reported issues to ensure timely resolution and product stability  
-✅ Collaborated within Agile/Scrum teams to support end-to-end testing, improving communication efficiency and ensuring timely delivery of test activities
-✅ Designed test plans and developed comprehensive test cases, increasing test coverage across key functional modules
-✅ Performed UI and functional testing to validate core features, helping identify critical defects before release
-✅ Executed test cases, identified and reported defects, contributing to improved product stability and reduced post-release issues
+* ✅ Collaborated within Agile/Scrum teams to support end-to-end testing, improving communication efficiency and ensuring timely delivery of test activities
+* ✅ Designed test plans and developed comprehensive test cases, increasing test coverage across key functional modules
+* ✅ Performed UI and functional testing to validate core features, helping identify critical defects before release
+* ✅ Executed test cases, identified and reported defects, contributing to improved product stability and reduced post-release issues
     
 ---
 
@@ -55,8 +55,8 @@ I focus on improving software quality, increasing test efficiency, and reducing 
 * Defined test strategies based on feature priority, including positive, negative, and boundary test scenarios
 * Determined appropriate testing approaches (manual vs. automation) for different test cases
 * Developed and executed automated test scripts using Python and Selenium to validate functionality and improve testing efficiency
-✅ Reduced manual regression testing effort by ~70%
-✅ Improved test execution efficiency and consistency
+* ✅ Reduced manual regression testing effort by ~70%
+* ✅ Improved test execution efficiency and consistency
 
 ---
 
@@ -65,8 +65,8 @@ I focus on improving software quality, increasing test efficiency, and reducing 
 * Developed automated API test scripts using Python requests
 * Validated response data, status codes, and edge cases
 * Implemented data-driven testing for multiple scenarios
-✅ Increased API test coverage significantly
-✅ Detected potential issues earlier in the development cycle
+* ✅ Increased API test coverage significantly
+* ✅ Detected potential issues earlier in the development cycle
 
 ---
 
@@ -76,9 +76,9 @@ I focus on improving software quality, increasing test efficiency, and reducing 
 * Implemented Page Object Model (POM) to improve code maintainability and reusability  
 * Enabled cross-browser testing and configurable environments using YAML configuration  
 * Automated test execution and generated HTML reports for efficient result analysis 
-✅ Improved test execution efficiency and consistency  
-✅ Reduced manual regression testing effort  
-✅ Enhanced test coverage across key user workflows 
+* ✅ Improved test execution efficiency and consistency  
+* ✅ Reduced manual regression testing effort  
+* ✅ Enhanced test coverage across key user workflows 
 
 ---
 
