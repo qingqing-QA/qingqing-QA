@@ -50,6 +50,7 @@ https://github.com/qingqing-QA/Learningcell-qa-manual-testing
 ---
 
 ### 🔹 LearningCell Web Automation Testing Framework
+https://github.com/qingqing-QA/Web-Application-Automation-Testing-Framework
 
 * Worked in a modular development environment, participating in the testing phase after each module was completed
 * Analyzed requirement and design documents to create test plans and design comprehensive test cases
