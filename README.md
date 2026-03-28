@@ -62,6 +62,7 @@ https://github.com/qingqing-QA/Learningcell-qa-manual-testing
 ---
 
 ### 🔹 API Automation Testing
+https://github.com/qingqing-QA/E-commerce-API-Testing-Framework-Python-Pytest-Requests-
 
 * Developed automated API test scripts using Python requests
 * Validated response data, status codes, and edge cases
