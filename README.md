@@ -70,7 +70,8 @@ I focus on improving software quality, increasing test efficiency, and reducing 
 
 ---
 
-### 🔹 Homeservice End-to-End QA Automation Framework (Selenium, Pytest, API, CI/CD) (https://github.com/qingqing-QA/Homeservice-End-to-End-QA-Automation-Framework-Selenium-Pytest-API-CI-CD-)
+### 🔹 Homeservice End-to-End QA Automation Framework (Selenium, Pytest, API, CI/CD) 
+https://github.com/qingqing-QA/Homeservice-End-to-End-QA-Automation-Framework-Selenium-Pytest-API-CI-CD-
 
 * Built a scalable QA automation testing framework using Python, Selenium, and Pytest  
 * Implemented Page Object Model (POM) to improve code maintainability and reusability  
