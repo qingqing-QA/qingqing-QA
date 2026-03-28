@@ -36,6 +36,7 @@ I focus on improving software quality, increasing test efficiency, and reducing 
 ## 📂 Projects
 
 ### 🔹 LearningCell Web Application QA Testing (Agile, Manual Testing)
+https://github.com/qingqing-QA/Learningcell-qa-manual-testing
 
 * Worked within Agile/Scrum development processes, collaborating with cross-functional teams throughout the testing lifecycle
 * Designed test plans and developed comprehensive test cases for modular features of a learning platform developed by an external vendor
