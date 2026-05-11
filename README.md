@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTest](https://img.shields.io/badge/PyTest-Framework-green)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-orange)
+
 # 👋 Hi, I'm Na Ren
 
 🎯 QA Automation Engineer | Automotive Software Testing | API & System Validation | Open to Work
