@@ -1,35 +1,55 @@
 # 👋 Hi, I'm Na Ren
 
-🎯 Software Automation Engineer | Python, Selenium, Pytest | CI/CD | Open to Work
+🎯 QA Automation Engineer | Automotive Software Testing | API & System Validation | Open to Work
+
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science graduate student specializing in Software and QA automation testing.
-I have hands-on experience in test design, manual testing, and building automation frameworks for web and API applications.
+QA Automation Engineer with hands-on experience in UI testing, API validation, backend data verification, and automation framework development using Python, Selenium, and PyTest.
 
-I focus on improving software quality, increasing test efficiency, and reducing manual testing effort through automation.
+Interested in automotive software testing, OTA validation workflows, system-level testing, and end-to-end integration testing. Experienced in CI/CD workflows using GitHub Actions and building maintainable QA automation frameworks.
+
+Currently seeking QA Automation Engineer, System Validation, or Automotive Software Testing opportunities in Michigan.
 
 ---
 
 ## 🛠 Skills
 
-**Automation Testing**
+**Languages**
 
-* Python, Selenium, Pytest
-* Page Object Model (POM)
+* Python
+* SQL
 
 **API Testing**
 
 * REST API Testing (requests)
 * Response validation & schema validation
 
-**Tools & Technologies**
+**Testings**
 
+* Functional Testing
+* Regression Testing
+* API Testing
+* System Validation
+* Integration Testing
+* End-to-End Testing
+
+**Automation & Tools**
+
+* Selenium WebDriver
+* PyTest
+* Postman
 * Git & GitHub
-* CI/CD pipelines using Jenkins
-* JSON / Test Data Management
+* GitHub Actions (CI/CD)
+* Jira
+
+**Framework Design**
+
+* Page Object Model (POM)
+* Data-Driven Testing
+* Test Reporting
 
 ---
 
@@ -70,19 +90,6 @@ https://github.com/qingqing-QA/E-commerce-API-Testing-Framework-Python-Pytest-Re
 * Implemented data-driven testing for multiple scenarios
 * ✅ Increased API test coverage significantly
 * ✅ Detected potential issues earlier in the development cycle
-
----
-
-### 🔹 Homeservice End-to-End QA Automation Framework (Selenium, Pytest, API, CI/CD) 
-https://github.com/qingqing-QA/Homeservice-End-to-End-QA-Automation-Framework-Selenium-Pytest-API-CI-CD-
-
-* Built a scalable QA automation testing framework using Python, Selenium, and Pytest  
-* Implemented Page Object Model (POM) to improve code maintainability and reusability  
-* Enabled cross-browser testing and configurable environments using YAML configuration  
-* Automated test execution and generated HTML reports for efficient result analysis 
-* ✅ Improved test execution efficiency and consistency  
-* ✅ Reduced manual regression testing effort  
-* ✅ Enhanced test coverage across key user workflows 
 
 ---
 
