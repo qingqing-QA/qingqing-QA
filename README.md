@@ -14,8 +14,7 @@ QA Automation Engineer focused on API testing, system validation, and automotive
 🔗 Project:
 https://github.com/qingqing-QA/automotive_ota_validation
 
-## CAN Log Validation & ECU Signal Analysis Framework
-
+### CAN Log Validation & ECU Signal Analysis Framework
 - Python-based CAN log analysis framework
 - ECU signal validation and anomaly detection
 - Vehicle speed, RPM, brake status validation
